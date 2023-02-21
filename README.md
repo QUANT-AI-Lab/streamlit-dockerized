@@ -1,5 +1,7 @@
 # streamlit-dockerized
 Example of a basic dockerized streamlit app
+<div align="center">
+  <img src="https://github.com/QUANT-AI-Lab/streamlit-dockerized/blob/master/resources/screenshot.png?raw=true" alt="Findr"></img>
 
 # How to run ?
 ## Without docker 
